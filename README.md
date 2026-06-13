@@ -18,4 +18,10 @@ I am a passionate tech professional who loves turning complex problems into eleg
 [![](https://komarev.com/ghpvc/?username=Harshp31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), [React] |
+| **Backend & Databases** | [ Python ], SQL, [ PostgreSQL ] |
+| **Tools & DevOps** | Git, GitHub, VS Code, [Docker / Netlify] |
+| **Soft Skills** | Communication, Team Collaboration, Technical Writing |
+
+
 
